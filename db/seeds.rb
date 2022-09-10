@@ -1,7 +1,6 @@
 #create country instance
 kenya = Country.create(name: 'Kenya', continent: 'Africa')
 belgium = Country.create(name: 'Belgium', continent: 'Europe')  
-china = Country.create(name: 'China', continent: 'Asia')  
 brazil = Country.create(name: 'Brazil', continent: 'South America')  
 canada = Country.create(name: 'Canada', continent: 'North America')  
 
