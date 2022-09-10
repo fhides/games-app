@@ -14,6 +14,5 @@ cpl = League.create(name: 'cpl', football_clubs: 'Tiger Cats')
 
 #create game instance
 game1 = Game.create(name: 'UCL', number_of_players: 32, country:belgium, league:kpl)  
-game2 = Game.create(name: 'Elclassico', number_of_players: 30, country:canada, league:jpl)  
 game3 = Game.create(name: 'China League', number_of_players: 33, country:china, league:spl)  
 game4 = Game.create(name: 'UEL', number_of_players: 29, country:belgium, league:cpl)  
